@@ -1,9 +1,5 @@
 # reversi_terminal_game
-Chen Yao 
-Cyao10
-cyao10@u.rochester.edu
 
-Collaborators: none
 
 
 
